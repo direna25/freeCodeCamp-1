@@ -24,6 +24,12 @@ Bootstrap 4 was in development for two years before releasing some beta versions
 At the time of writing, Bootstrap's latest release is [4.1.3](http://blog.getbootstrap.com/2018/07/24/bootstrap-4-1-3/
 ). If you would like to keep up with any news of announcements, follow them [here](http://blog.getbootstrap.com/).
 
+#### Why use Bootstrap?
+Easy to use: Any one with knowledge of HTML, CSS, Javascript can start to use Bootstrap
+Responsive features: Responsive CSS adjusts to phones, tablets, and desktops
+Mobile-first approach: In Bootstrap 3, mobile-first styles are part of the core framework
+Browser compatibility: Bootstrap is compatible with all modern browsers (Chrome, Firefox, Internet Explorer, Edge, Safari, and Opera)
+
 #### Installation
 
 There are two main options to add Bootstrap to your web project. You can link to publicly available sources, or download the framework directly. 
